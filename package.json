@@ -1,0 +1,25 @@
+{
+  "name": "proto-events",
+  "version": "0.0.1",
+  "description": "eventemitter based on proto-scope",
+  "main": "events.js",
+  "scripts": {
+    "test": "node-dev test.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jiyinyiyong/proto-events.git"
+  },
+  "keywords": [
+    "eventmitter",
+    "proto"
+  ],
+  "author": "jiyinyiyong",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jiyinyiyong/proto-events/issues"
+  },
+  "dependencies": {
+    "proto-scope": "0.0.2"
+  }
+}
